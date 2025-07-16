@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open-source mobile projects, Flutter plugins, or app architecture improvements.
 - 🤔 I’m looking for help with growing my personal brand and contributing more consistently to open-source.
 - 💬 Ask me about Java, Kotlin, Swift, Flutter, CI/CD for mobile, or best practices for scalable app architecture.
-- 📫 How to reach me: 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bayuwij) • [Email](mailto:bayuwij@outlook.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bayuwij) • [Email](mailto:bayuwij@outlook.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new productivity tools and automating repetitive tasks — anything to make dev life smoother!
 
